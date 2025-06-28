@@ -17,9 +17,9 @@ function Item({ itemObj, onSelect }) {
   return (
     <li className="guitar" onClick={() => onSelect(itemObj)}>
       <img
-        src={itemObj.photoName}
+        src={`${process.env.PUBLIC_URL}/${itemObj.photoName}`}
         alt={itemObj.name}
-        style={{ cursor: "pointer" }} // Add cursor pointer
+        style={{ cursor: "pointer" }} 
       />
       <div>
         <h3>{itemObj.name}</h3>

@@ -22,7 +22,7 @@ function ImageSlider({ guitar, onClose }) {
         {"<"}
       </button>
       <img
-        src={guitar.images[currentIndex]}
+        src={`${process.env.PUBLIC_URL}/${guitar.images[currentIndex]}`}
         alt={guitar.name}
         className="slider-image"
         //style={{ cursor: "pointer" }}

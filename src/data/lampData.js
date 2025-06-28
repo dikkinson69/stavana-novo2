@@ -2,50 +2,50 @@ const lampData = [
   {
     name: "Lila",
     description: "Handpainted lamp",
-    photoName: "lampe/lila5.jpg",
+    photoName: "Lampe/Lila5.jpg",
     soldOut: false,
     images: [
-      "/lampe/Lila2.jpg",
-      "/lampe/Lila3.jpg",
-      "/lampe/Lila4.jpg",
-      "/lampe/lila1.jpg",
+      "Lampe/Lila2.jpg",
+      "Lampe/Lila3.jpg",
+      "Lampe/Lila4.jpg",
+      "Lampe/lila1.jpg",
     ],
   },
   {
     name: "Mimoza",
     description: "Handpainted lamp",
-    photoName: "lampe/mimoza1.jpg",
+    photoName: "Lampe/Mimoza1.jpg",
     soldOut: false,
-    images: ["/lampe/Mimoza2.jpg", "/lampe/Mimoza3.jpg", "/lampe/Mimoza4.jpg"],
+    images: ["Lampe/Mimoza2.jpg", "Lampe/Mimoza3.jpg", "Lampe/Mimoza4.jpg"],
   },
   {
     name: "Orange",
     description: "Handpainted lamp",
-    photoName: "lampe/Oranz1.jpg",
+    photoName: "Lampe/Oranz1.jpg",
     soldOut: false,
-    images: ["/lampe/Oranz2.jpg", "/lampe/Oranz3.jpg", "/lampe/Oranz4.jpg"],
+    images: ["Lampe/Oranz2.jpg", "Lampe/Oranz3.jpg", "Lampe/Oranz4.jpg"],
   },
   {
     name: "Rose",
     description: "Handpainted lamp",
-    photoName: "lampe/Ruza2.jpg",
+    photoName: "Lampe/Ruza2.jpg",
     soldOut: false,
-    images: ["/lampe/Ruza1.jpg", "/lampe/Ruza3.jpg"],
+    images: ["Lampe/Ruza1.jpg", "Lampe/Ruza3.jpg"],
   },
   {
     name: "Cherry",
     description: "Handpainted lamp",
-    photoName: "lampe/Visnja1.jpg",
+    photoName: "Lampe/Visnja1.jpg",
     soldOut: false,
-    images: ["/lampe/Visnja2.jpg", "/lampe/Visnja3.jpg", "/lampe/Visnja4.jpg"],
+    images: ["Lampe/Visnja2.jpg", "Lampe/Visnja3.jpg", "Lampe/Visnja4.jpg"],
   },
-
-   {
-    name: "Zelena",
+  {
+    name: "Green",
     description: "Handpainted lamp",
-    photoName: "lampe/Zelena1.jpg",
+    photoName: "Lampe/Zelena1.jpg",
     soldOut: false,
-    images: ["/lampe/Zelena1.jpg"],
+    images: ["Lampe/Zelena1.jpg"],
   },
 ];
+
 export default lampData;

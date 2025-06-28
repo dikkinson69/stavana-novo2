@@ -1,11 +1,11 @@
-import React from "react"; // You can use this to make the logo clickable for the homepage.
+import React from "react";
 
 function Header() {
   return (
     <header className="header">
       <a href="/" className="logo-link">
         <img
-          src="/logo/stavanaLogo.jpg"
+          src={`${process.env.PUBLIC_URL}/logo/stavanaLogo.jpg`}
           alt="Stavana Logo"
           className="logo left-logo"
         />
@@ -13,7 +13,7 @@ function Header() {
 
       <a href="/" className="logo-link">
         <img
-          src="/logo/stavanaLogoLink.jpg"
+          src={`${process.env.PUBLIC_URL}/logo/StavanaLogoLink.jpg`}
           alt="Stavana Logo"
           className="header-logo"
         />
@@ -21,7 +21,7 @@ function Header() {
 
       <a href="/" className="logo-link">
         <img
-          src="/logo/stavanaLogo2.jpg"
+          src={`${process.env.PUBLIC_URL}/logo/stavanaLogo2.jpg`}
           alt="Stavana Logo 2"
           className="logo right-logo"
         />

@@ -1,6 +1,6 @@
 import React, { useRef } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Navigation } from "swiper/modules"; // Explicit module
+import { Navigation } from "swiper/modules"; 
 import "swiper/css";
 import "swiper/css/navigation";
 
@@ -67,25 +67,26 @@ function Home() {
           onSwiper={(swiper) => (swiperRef.current = swiper)}
         >
           <SwiperSlide>
-            <video
-              src="/video/video1.mp4"
-              controls
-              style={{ width: "100%", borderRadius: "12px" }}
-            />
+           <video
+  src={`${process.env.PUBLIC_URL}/video/video1.mp4`}
+  controls
+  style={{ width: "100%", borderRadius: "12px" }}
+/>
+
           </SwiperSlide>
           <SwiperSlide>
-            <video
-              src="/video/video2.mp4"
-              controls
-              style={{ width: "100%", borderRadius: "12px" }}
-            />
+         <video
+  src={`${process.env.PUBLIC_URL}/video/video2.mp4`}
+  controls
+  style={{ width: "100%", borderRadius: "12px" }}
+/>
           </SwiperSlide>
            <SwiperSlide>
             <video
-              src="/video/video3.mp4"
-              controls
-              style={{ width: "100%", borderRadius: "12px" }}
-            />
+  src={`${process.env.PUBLIC_URL}/video/video3.mp4`}
+  controls
+  style={{ width: "100%", borderRadius: "12px" }}
+/>
           </SwiperSlide>
         </Swiper>
       </div>
