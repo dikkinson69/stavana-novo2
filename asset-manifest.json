@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/stavana-fresh/static/css/main.dbe0c6fa.css",
-    "main.js": "/stavana-fresh/static/js/main.8543806b.js",
-    "static/media/tt1018m__8162f819-e6ad-4691-bcae-ad63b764767d.ttf": "/stavana-fresh/static/media/tt1018m__8162f819-e6ad-4691-bcae-ad63b764767d.902e33b4a93fab853189.ttf",
-    "index.html": "/stavana-fresh/index.html",
-    "main.dbe0c6fa.css.map": "/stavana-fresh/static/css/main.dbe0c6fa.css.map",
-    "main.8543806b.js.map": "/stavana-fresh/static/js/main.8543806b.js.map"
+    "main.css": "/stavana-novo2/static/css/main.03ab7954.css",
+    "main.js": "/stavana-novo2/static/js/main.8a6f7f1d.js",
+    "static/media/tt1018m__8162f819-e6ad-4691-bcae-ad63b764767d.ttf": "/stavana-novo2/static/media/tt1018m__8162f819-e6ad-4691-bcae-ad63b764767d.902e33b4a93fab853189.ttf",
+    "index.html": "/stavana-novo2/index.html",
+    "main.03ab7954.css.map": "/stavana-novo2/static/css/main.03ab7954.css.map",
+    "main.8a6f7f1d.js.map": "/stavana-novo2/static/js/main.8a6f7f1d.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbe0c6fa.css",
-    "static/js/main.8543806b.js"
+    "static/css/main.03ab7954.css",
+    "static/js/main.8a6f7f1d.js"
   ]
 }
