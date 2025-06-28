@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/stavana-novo2/static/css/main.03ab7954.css",
-    "main.js": "/stavana-novo2/static/js/main.8a6f7f1d.js",
+    "main.css": "/stavana-novo2/static/css/main.529fd790.css",
+    "main.js": "/stavana-novo2/static/js/main.9bf2f6bc.js",
     "static/media/tt1018m__8162f819-e6ad-4691-bcae-ad63b764767d.ttf": "/stavana-novo2/static/media/tt1018m__8162f819-e6ad-4691-bcae-ad63b764767d.902e33b4a93fab853189.ttf",
     "index.html": "/stavana-novo2/index.html",
-    "main.03ab7954.css.map": "/stavana-novo2/static/css/main.03ab7954.css.map",
-    "main.8a6f7f1d.js.map": "/stavana-novo2/static/js/main.8a6f7f1d.js.map"
+    "main.529fd790.css.map": "/stavana-novo2/static/css/main.529fd790.css.map",
+    "main.9bf2f6bc.js.map": "/stavana-novo2/static/js/main.9bf2f6bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.03ab7954.css",
-    "static/js/main.8a6f7f1d.js"
+    "static/css/main.529fd790.css",
+    "static/js/main.9bf2f6bc.js"
   ]
 }
